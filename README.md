@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![](github.png)
 
-##Installation
+## Installation
 
 Öncelikle projeyi clonelayın.
 
@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 https://github.com/pinarinemek/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
